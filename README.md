@@ -1,10 +1,10 @@
-## ITNE352 - Multithreaded Flight arrival Client/Server Information System
+## Multithreaded Flight arrival Client/Server Information System
 ### Course Project
 
 ## AUTHORS:
 
-* Abdulrahman Jalal Zaid 202100690
-* Abdulqadeer Abdulhamid 202103916
+* Abdulrahman Jalal Zaid
+* Abdulqadeer Abdulhamid
 
 
 ## Installation
@@ -35,7 +35,3 @@ After installing the required packages:
 NOTE**: For option 3 and 4, client must enter ICAO or IATA based on their selected option before clicking submit.
 5. The server response will be shown in a scrolled frame.
 6. To close the client, select the "Quit" option from dropdown menu and click submit. The gui will be closed and a goodbye message will apear at client terminal.
-
-### The presentation link
-
-https://stuuobedu-my.sharepoint.com/:v:/g/personal/202100690_stu_uob_edu_bh/EZfBRLmR1lRHti_ZebBhtAcBTZ3Jh24SAjf9U9B_jLFTdg?e=fDrZFI
